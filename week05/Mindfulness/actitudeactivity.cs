@@ -17,7 +17,7 @@ namespace MindfulnessProgram
         public GratitudeActivity()
             : base(
                 "Gratitude Activity",
-                "This activity will guide you to feel more gratitude by reflecting on blessings in your life.")
+                "This activity will guide you  to feel more gratitude by reflecting on blessings in your life.")
         {
         }
 
